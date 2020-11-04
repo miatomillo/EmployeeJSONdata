@@ -1,0 +1,40 @@
+.employee {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: 10px 10px #777777;
+    height:215px;
+    }
+.eName{
+    float:left;
+    display:block;
+    margin-top: 10px;
+    margin-left:30px;
+    font-weight: bold;
+}
+.general{
+    float:left;
+    overflow: auto;
+}
+.detial{
+    float:right;
+}
+img{
+    display: block;
+    border: 5px solid;
+    margin-top:30px;
+    margin-left:30px;
+    margin-right:30px;
+    height: 150px;
+}
+.title{
+    font-weight:bold;
+    display: block;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+.email{
+    float: down;
+    display:block;
+}
